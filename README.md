@@ -1,5 +1,5 @@
 <h1 align="center">You can call me Sergeveli</h1>
-<h3 align="center">A fullstack dev from NYC working to change how music is made and instruments are taught through software development.</h3>
+<h3 align="center">An NYC native looking to simplify how music is made and instruments are taught through software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeveli&label=Profile%20views&color=0e75b6&style=flat" alt="sergeveli" /> </p>
 
